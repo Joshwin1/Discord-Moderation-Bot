@@ -9,6 +9,6 @@
     "rcon-client": "^4.2.5"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "AlanBot.js"
   }
 }
