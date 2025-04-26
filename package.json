@@ -7,5 +7,8 @@
     "mysql2": "^3.14.0",
     "rcon": "^1.1.0",
     "rcon-client": "^4.2.5"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
